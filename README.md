@@ -1,1 +1,1 @@
-# car-game-using-python-language
+Welcome to the Car Game, a simple console-based Python game where you control a car navigating through a track while avoiding obstacles. To get started, ensure you have Python 3.x installed. Clone the repository using git clone <repository-url>, navigate to the project directory with cd car-game, and run the game using python car_game.py. Use the arrow keys to move the car and avoid hitting obstacles to keep playing. Enjoy the game and challenge yourself to achieve the highest score!
